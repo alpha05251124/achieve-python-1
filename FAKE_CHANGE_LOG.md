@@ -51,3 +51,4 @@
 2020-03-23 17:49:02 +0000 - refactor module
 2020-03-23 08:02:07 +0000 - update docs
 2020-03-23 10:58:34 +0000 - update docs
+2020-03-24 08:55:00 +0000 - improve function
