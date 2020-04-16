@@ -70,3 +70,4 @@
 2020-04-14 08:49:18 +0000 - refactor module
 2020-04-14 12:56:06 +0000 - improve function
 2020-04-16 10:31:39 +0000 - update code
+2020-04-16 19:26:24 +0000 - update docs
